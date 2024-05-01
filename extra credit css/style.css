@@ -1,0 +1,10 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+h1 {
+	font-family: "Jacquard 24", system-ui;
+	font-size: 200px;
+	font-weight: ;
+	color: #c78b87;
+	text-align: center;
+	text-decoration-line: underline;
+	text-shadow: 2px 2px 5px black;
+}
